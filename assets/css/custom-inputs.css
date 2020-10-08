@@ -1,0 +1,10 @@
+.input-label-overlapping label {
+    position: relative;
+    left: 5px;
+    top: 8px;
+    background-color: white;
+}
+.input-label-overlapping input {
+    display: block;
+    padding: 5px;
+}
